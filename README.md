@@ -16,7 +16,9 @@ Características:
 TELAS:
 
 <details>
+  
   ![Página Inicial](https://user-images.githubusercontent.com/63561594/140588408-1ba082f7-cf21-4eac-843c-3aaf3fae9e05.png)
+  
 </details>
 
 
