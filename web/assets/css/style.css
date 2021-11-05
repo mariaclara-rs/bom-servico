@@ -1,0 +1,45 @@
+.banner-title {
+    color: var(--light);
+    text-shadow: 1px 1px 7px #606060;
+}
+
+.banner-index {
+    height: 340px;
+    padding-top: 56px;
+    padding-bottom: 30px;
+    background: url("../img/scott-graham-OQMZwNd3ThU-unsplash.jpg") center / cover;
+}
+
+.call-to-action {
+    background: rgb(52, 58, 64);
+    height: 269px;
+}
+
+.gradiente {
+    background: linear-gradient(var(--gray) 0%, var(--gray-dark) 100%), #212529;
+}
+
+.erro {
+    color: #f4476b;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.sucesso {
+    color: #34ce57;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0;
+}
+
+.f-14 {
+    font-size: 14px;
+}
+
+.money-icon {
+    padding-left: 0px;
+    padding-right: 10px;
+    color: rgb(3,133,0);
+    font-size: 22px;
+}
