@@ -2,7 +2,7 @@
 
 Sistema Web de classificados/ofertas de serviços
 
-Funcionalidades: 
+Características: 
 
 • oferece o cadastro de categorias de serviços (reparos, transporte, culinária, limpeza, etc..) e os classificados/anuncios em si;
 
