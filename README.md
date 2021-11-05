@@ -16,10 +16,7 @@ Características:
 TELAS:
 
 Página inicial
-<details>
-  ![Screenshot](https://user-images.githubusercontent.com/63561594/140588408-1ba082f7-cf21-4eac-843c-3aaf3fae9e05.png)
-</details>
-
+![Screenshot](https://user-images.githubusercontent.com/63561594/140588408-1ba082f7-cf21-4eac-843c-3aaf3fae9e05.png)
 
 "Ver Mais" - Informaçãoes do Anúncio
 ![Screenshot (1)](https://user-images.githubusercontent.com/63561594/140588436-5c65dd63-c565-4bce-ad95-530141727760.png)
