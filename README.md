@@ -12,10 +12,14 @@ Características:
 
 • o prestador de serviço pode cadastrar seus dados e inserir, alterar e excluir seu anuncio/classificado que deverá ser único.
 
+
 TELAS:
 
-Página inicial
-![Screenshot](https://user-images.githubusercontent.com/63561594/140588408-1ba082f7-cf21-4eac-843c-3aaf3fae9e05.png)
+<deatails>
+  Página inicial
+  ![Screenshot](https://user-images.githubusercontent.com/63561594/140588408-1ba082f7-cf21-4eac-843c-3aaf3fae9e05.png)
+</details>
+
 
 "Ver Mais" - Informaçãoes do Anúncio
 ![Screenshot (1)](https://user-images.githubusercontent.com/63561594/140588436-5c65dd63-c565-4bce-ad95-530141727760.png)
