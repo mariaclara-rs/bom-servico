@@ -3,6 +3,7 @@
 Sistema Web de classificados/ofertas de serviços
 
 Funcionalidades: 
+
 • oferece o cadastro de categorias de serviços (reparos, transporte, culinária, limpeza, etc..) e os classificados/anuncios em si;
 
 • conta com dois tipos de usuários, sendo o administrador e o prestador de serviço;
