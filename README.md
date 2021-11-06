@@ -2,7 +2,7 @@
 
 Sistema Web de classificados/ofertas de serviços
 
-Características: 
+## Características: 
 
 • oferece o cadastro de categorias de serviços (reparos, transporte, culinária, limpeza, etc..) e os classificados/anuncios em si;
 
@@ -12,8 +12,7 @@ Características:
 
 • o prestador de serviço pode cadastrar seus dados e inserir, alterar e excluir seu anuncio/classificado que deverá ser único.
 
-
-TELAS:
+## TELAS:
 
 <details>
   
