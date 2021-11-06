@@ -30,7 +30,9 @@ Sistema Web de classificados/ofertas de serviços
   
   Painel do administrador
   
-  ![Painel do administrador](https://user-images.githubusercontent.com/63561594/140588482-f9d8217c-33cf-4130-bb74-cb3f14cd8326.png) ![painel_adm_2](https://user-  images.githubusercontent.com/63561594/140588489-1872e781-116d-4e3f-9717-ff3802082a3d.png)
+  ![Painel do administrador](https://user-images.githubusercontent.com/63561594/140588482-f9d8217c-33cf-4130-bb74-cb3f14cd8326.png) 
+  
+  ![painel_adm_2](https://user-  images.githubusercontent.com/63561594/140588489-1872e781-116d-4e3f-9717-ff3802082a3d.png)
     
   Cadastro de usuário
   
